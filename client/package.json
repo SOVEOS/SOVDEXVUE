@@ -12,7 +12,7 @@
     "@marcius-studio/vue-notice": "0.1.0",
     "@scatterjs/core": "2.7.53",
     "@scatterjs/eosjs": "1.5.36",
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "eosjs": "16.0.9",
     "lightweight-charts": "2.0.0",
     "material-icons": "0.3.1",
